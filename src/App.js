@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Hoang Tri Tuong</p>
       </header>
     </div>
   );
