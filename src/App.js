@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
         <p>Hoang Tri Tuong</p>
+        <p>Test push event</p>
       </header>
     </div>
   );
